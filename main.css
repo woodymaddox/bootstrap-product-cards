@@ -1,8 +1,14 @@
 
 body {
-  background-color: darkgrey;
+  position: absolute;
+  background-size: cover;
+ background-position: center;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+  background-image: url("https://i.pinimg.com/originals/65/30/a2/6530a2bdeaf95365f0171fbeeaf93d3a.jpg");
 }
-
 
 .card {
   background-color:lightgray;
